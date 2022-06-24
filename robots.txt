@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://automaniacmrk.github.io/DryIceBlastingServices/sitemap.xml
